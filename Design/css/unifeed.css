@@ -59,15 +59,15 @@
 				}
 }
 @media(min-width:992px){
-			 #top{
-			 				display:flex;
-			 				flex-flow:row nowrap;
-			 }
-			 #below-main{
-			 				display:flex;
-			 				flex-flow:row nowrap;
-			 				justify-content:space-between;
-			 }
+			       #top{
+			 				       display:flex;
+			 				       flex-flow:row nowrap;
+			       }
+			       #below-main{
+			 				       display:flex;
+			 				       flex-flow:row nowrap;
+			 				       justify-content:space-between;
+			        }
 				#dhee{
 								margin-right:30px;
 				}
